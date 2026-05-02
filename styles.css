@@ -1,1 +1,23 @@
-My future Style sheet
+body {
+  background-color: white;
+}
+
+h1 {
+  color: pink;
+}
+
+h2 {
+  color: hotpink;
+}
+
+h3 {
+  color: pink;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  background-color: pink;
+}
